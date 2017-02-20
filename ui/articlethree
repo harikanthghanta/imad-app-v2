@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      
+      <title>
+          Article one HK
+      </title>
+      <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        
+    </head>
+    
+    <body>
+        <div>
+            <a href="/">home</a>
+        </div>
+        
+        <p>
+            hey buddy I am learning.
+        </p>
+        
+        <div>
+            <p>
+                division
+                
+            </p>
+        </div>
+            
+    </body>
+    
+    
+</html>
